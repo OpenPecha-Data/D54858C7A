@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   32e1bbdd7d6f41209612c85aceeb064e:
     parts: {}
+    work_id: Q5702
     span:
-    - vol: 97
+    - base: 40bd
       start: 0
       end: 239564
-    work_id: Q5702
